@@ -1,1 +1,1 @@
-# MobileAppDevelopment_Week02
+# Week02-Bosung
